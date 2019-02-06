@@ -9,7 +9,9 @@
  * implies agreement with all terms and conditions of the accompanying
  * software licence.
  */
-#include <aicore/aicore.h>
+
+#include <stdio.h>
+#include "../include/aicore/aicore.h"
 
 namespace aicore
 {

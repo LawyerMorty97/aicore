@@ -10,7 +10,8 @@
  * software licence.
  */
 
-#include <aicore/aicore.h>
+#include <stdio.h>
+#include "../include/aicore/aicore.h"
 
 #ifdef _WIN32
 // Import the high performance timer (c. 4ms).
@@ -67,9 +68,10 @@ namespace aicore
     unsigned long systemClock()
     {
 #ifdef _WIN32
-        __asm {
+        /*__asm {
             rdtsc;
-        }
+        }*/
+        asm ("rdtsc");
 #else
         volatile uint32_t lo, hi;
         asm volatile ("rdtsc" : "=a" (lo), "=d" (hi));

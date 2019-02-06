@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="AI4G" targetName="c03_pipeline" />
+      <config projectName="AI4G" targetName="c03_steering" />
+      <config projectName="AI4G" targetName="c05_markovsm" />
+      <config projectName="AI4G" targetName="c05_hsm" />
+      <config projectName="AI4G" targetName="c07_simpleq" />
+      <config projectName="AI4G" targetName="c05_sm" />
+      <config projectName="AI4G" targetName="c03_flocking" />
+      <config projectName="AI4G" targetName="c05_dectree" />
+      <config projectName="AI4G" targetName="c03_kinematic" />
+      <config projectName="AI4G" targetName="c05_randectree" />
+      <config projectName="AI4G" targetName="c03_priority" />
+      <config projectName="AI4G" targetName="c05_action" />
+      <config projectName="AI4G" targetName="aicore" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d70955b2-9d62-44a2-b826-01b3042fbcad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/action.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aimath.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/aimath.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basesm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/basesm.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/core.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dectree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/dectree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/common/gl/app.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/demos/common/gl/app.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kinematic.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/kinematic.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learning.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/location.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/location.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markovsm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/markovsm.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/qlearning.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/qlearning.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rules.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/rules.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/sm.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steering.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/steering.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steerpipe.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/steerpipe.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timing.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/timing.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/timing.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+              <folding>
+                <element signature="e#351#369#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/action.cpp" />
+        <option value="$PROJECT_DIR$/src/aimath.cpp" />
+        <option value="$PROJECT_DIR$/src/core.cpp" />
+        <option value="$PROJECT_DIR$/src/dectree.cpp" />
+        <option value="$PROJECT_DIR$/src/basesm.cpp" />
+        <option value="$PROJECT_DIR$/src/kinematic.cpp" />
+        <option value="$PROJECT_DIR$/src/learning.cpp" />
+        <option value="$PROJECT_DIR$/src/location.cpp" />
+        <option value="$PROJECT_DIR$/src/markovsm.cpp" />
+        <option value="$PROJECT_DIR$/src/qlearning.cpp" />
+        <option value="$PROJECT_DIR$/src/rules.cpp" />
+        <option value="$PROJECT_DIR$/src/sm.cpp" />
+        <option value="$PROJECT_DIR$/src/steering.cpp" />
+        <option value="$PROJECT_DIR$/src/steerpipe.cpp" />
+        <option value="$PROJECT_DIR$/src/demos/common/gl/app.h" />
+        <option value="$PROJECT_DIR$/src/timing.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AI4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aicore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aicore" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aicore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aicore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.aicore">
+    <configuration name="aicore" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="aicore" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c03_flocking" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c03_flocking" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c03_flocking">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c03_kinematic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c03_kinematic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c03_kinematic">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c03_pipeline" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c03_pipeline" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c03_pipeline">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c03_priority" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c03_priority" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c03_priority">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c03_steering" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c03_steering" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c03_steering">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c05_action" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c05_action" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c05_action">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c05_dectree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c05_dectree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c05_dectree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c05_hsm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c05_hsm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c05_hsm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c05_markovsm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c05_markovsm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c05_markovsm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c05_randectree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c05_randectree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c05_randectree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c05_sm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c05_sm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c05_sm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c07_simpleq" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AI4G" TARGET_NAME="c07_simpleq" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AI4G" RUN_TARGET_NAME="c07_simpleq">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.aicore" />
+      <item itemvalue="Application.c03_flocking" />
+      <item itemvalue="Application.c03_kinematic" />
+      <item itemvalue="Application.c03_pipeline" />
+      <item itemvalue="Application.c03_priority" />
+      <item itemvalue="Application.c03_steering" />
+      <item itemvalue="Application.c05_action" />
+      <item itemvalue="Application.c05_dectree" />
+      <item itemvalue="Application.c05_hsm" />
+      <item itemvalue="Application.c05_markovsm" />
+      <item itemvalue="Application.c05_randectree" />
+      <item itemvalue="Application.c05_sm" />
+      <item itemvalue="Application.c07_simpleq" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d70955b2-9d62-44a2-b826-01b3042fbcad" name="Default Changelist" comment="" />
+      <created>1549475965514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549475965514</updated>
+      <workItem from="1549475969374" duration="777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="777000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" weight="0.32932165" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="LuaJ" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aimath.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/action.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#334#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dectree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#346#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kinematic.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#359#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basesm.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/location.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="e#346#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markovsm.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qlearning.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/aicore/aicore.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#2334#2356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/aicore/action.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="227" column="25" lean-forward="true" selection-start-line="227" selection-start-column="25" selection-end-line="227" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rules.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#294#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sm.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#345#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steering.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#349#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steerpipe.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/common/gl/app.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#342#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timing.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+          <folding>
+            <element signature="e#351#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

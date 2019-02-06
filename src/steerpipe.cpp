@@ -10,7 +10,8 @@
  * software licence.
  */
 #include <stdlib.h>
-#include <aicore/aicore.h>
+#include <stdio.h>
+#include "../include/aicore/aicore.h"
 
 #include <cassert>
 
