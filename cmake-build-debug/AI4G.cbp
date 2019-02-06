@@ -24,7 +24,7 @@
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -48,7 +48,7 @@
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -72,7 +72,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -96,7 +96,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -120,7 +120,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -144,7 +144,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -168,7 +168,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -192,7 +192,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -216,7 +216,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -240,7 +240,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -264,7 +264,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -288,7 +288,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -312,7 +312,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -336,7 +336,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -370,7 +370,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -394,7 +394,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -418,7 +418,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -442,7 +442,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -466,7 +466,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -490,7 +490,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -514,7 +514,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -538,7 +538,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -562,7 +562,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -586,7 +586,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -610,7 +610,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
@@ -634,7 +634,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="G:/aicore/../include"/>
+					<Add directory="G:/aicore/include"/>
 					<Add directory="C:/MinGW/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>

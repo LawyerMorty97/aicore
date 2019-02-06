@@ -3,7 +3,7 @@ project(AI4G)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ../bin)
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ../lib)
-set(SRC ../src)
+set(SRC src)
 
 find_package(GLU REQUIRED)
 find_package(GLUT REQUIRED)
@@ -18,7 +18,7 @@ IF(APPLE)
    SET(EXTRA_LIBS ${COCOA_LIBRARY} ${GLUT_LIBRARY} ${OPENGL_LIBRARY})
 ENDIF (APPLE)
 
-include_directories(../include ${GLUT_INCLUDE_DIR} ${GL_INCLUDE_DIR})
+include_directories(include ${GLUT_INCLUDE_DIR} ${GL_INCLUDE_DIR})
 
 add_library(aicore STATIC
   ${SRC}/action.cpp
